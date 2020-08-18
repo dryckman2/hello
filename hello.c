@@ -9,7 +9,7 @@
 
  int main (int argc, char **argv){
 
-     printf("David Ryckman\n");
+     printf("David Ryckman\nComputer Science\nUniversity of Nebraska Lincoln\nUniversity Suites\nRoom 527 B\n");
 
      return 0;
 
